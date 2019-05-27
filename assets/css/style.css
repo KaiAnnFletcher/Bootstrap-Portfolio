@@ -1,6 +1,6 @@
 body {
     line-height: 65px;
-    background-image: url("../Basic-Portfolio/assets/images/circuit.png");
+    background-image: url("../images/circuit.png");
     margin: 0px auto; /*When an image is added on the background, it wraps around it and this margin expression pushes it up*/
 }
 
@@ -42,7 +42,7 @@ body {
     margin-left: 1%;
     height: 260px;
     width: 204px;
-    background-image: url("../Basic-Portfolio/assets/images/ME.jpg");
+    background-image: url("../images/ME.jpg");
     background-size: contain;
     background-repeat: no-repeat;
 }
